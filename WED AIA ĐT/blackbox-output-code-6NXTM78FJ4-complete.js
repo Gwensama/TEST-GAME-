@@ -1,0 +1,2 @@
+// Hero Slider
+let currentSlide
